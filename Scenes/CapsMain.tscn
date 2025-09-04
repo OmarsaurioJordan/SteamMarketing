@@ -1,0 +1,16 @@
+[gd_scene format=3 uid="uid://bky1imntpo20r"]
+
+[node name="CapsMain" type="Panel"]
+offset_right = 1232.0
+offset_bottom = 706.0
+metadata/_edit_lock_ = true
+
+[node name="Size" type="Label" parent="."]
+layout_mode = 0
+offset_left = 17.0
+offset_top = -62.0
+offset_right = 89.0
+offset_bottom = -39.0
+scale = Vector2(2, 2)
+text = "1232 x 706"
+metadata/_edit_lock_ = true

@@ -1,0 +1,12 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+*.log
+build/
+tmp/
+Sprites/
+Screenshoots/
+*.import
+*.exe
+*.zip
+*.rar

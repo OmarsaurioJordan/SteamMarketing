@@ -1,0 +1,32 @@
+[gd_scene format=3 uid="uid://cb8cxgcx7jgp"]
+
+[node name="BiblioHero" type="Panel"]
+offset_right = 3840.0
+offset_bottom = 1240.0
+metadata/_edit_lock_ = true
+
+[node name="SecureZone" type="Panel" parent="."]
+self_modulate = Color(1, 0, 0, 1)
+offset_left = 428.0
+offset_top = 182.0
+offset_right = 3411.0
+offset_bottom = 914.0
+metadata/_edit_lock_ = true
+
+[node name="DifuseZone" type="Panel" parent="."]
+self_modulate = Color(1, 0, 0, 1)
+offset_left = 4.0
+offset_top = 1041.0
+offset_right = 3836.0
+offset_bottom = 1246.0
+metadata/_edit_lock_ = true
+
+[node name="Size" type="Label" parent="."]
+layout_mode = 0
+offset_left = 17.0
+offset_top = -62.0
+offset_right = 89.0
+offset_bottom = -39.0
+scale = Vector2(2, 2)
+text = "3840 x 1240"
+metadata/_edit_lock_ = true

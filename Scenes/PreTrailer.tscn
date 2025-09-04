@@ -1,0 +1,16 @@
+[gd_scene format=3 uid="uid://cxi3777l1wwx3"]
+
+[node name="PreTrailer" type="Panel"]
+offset_right = 1920.0
+offset_bottom = 1080.0
+metadata/_edit_lock_ = true
+
+[node name="Size" type="Label" parent="."]
+layout_mode = 0
+offset_left = 17.0
+offset_top = -62.0
+offset_right = 89.0
+offset_bottom = -39.0
+scale = Vector2(2, 2)
+text = "1920 x 1080"
+metadata/_edit_lock_ = true

@@ -1,0 +1,16 @@
+[gd_scene format=3 uid="uid://b6s1oluhu0nw5"]
+
+[node name="CapsVerti" type="Panel"]
+offset_right = 748.0
+offset_bottom = 896.0
+metadata/_edit_lock_ = true
+
+[node name="Size" type="Label" parent="."]
+layout_mode = 0
+offset_left = 17.0
+offset_top = -62.0
+offset_right = 89.0
+offset_bottom = -39.0
+scale = Vector2(2, 2)
+text = "748 x 896"
+metadata/_edit_lock_ = true

@@ -1,0 +1,23 @@
+[gd_scene format=3 uid="uid://2fddfi82x857"]
+
+[node name="TwitchLados" type="Panel"]
+offset_right = 310.0
+offset_bottom = 337.0
+metadata/_edit_lock_ = true
+
+[node name="Lado" type="Panel" parent="."]
+self_modulate = Color(1, 0, 0, 1)
+layout_mode = 0
+offset_right = 155.0
+offset_bottom = 337.0
+metadata/_edit_lock_ = true
+
+[node name="Size" type="Label" parent="."]
+layout_mode = 0
+offset_left = 17.0
+offset_top = -62.0
+offset_right = 89.0
+offset_bottom = -39.0
+scale = Vector2(2, 2)
+text = "155 x 337 (x2)"
+metadata/_edit_lock_ = true
