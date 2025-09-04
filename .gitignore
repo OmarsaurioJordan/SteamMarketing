@@ -6,9 +6,8 @@
 build/
 tmp/
 Sprites/
-!Sprites/note.txt
+!note.txt
 Screenshoots/
-!Screenshoots/note.txt
 *.import
 *.exe
 *.zip
